@@ -26,6 +26,15 @@ We combine expertise with state-of-the-art equipment to deliver a superior finis
 
 ***
 
+## 🖼️ Additional Visual & Booking Assets:
+
+* **Visual Service Portfolio:** View our [Metro Detroit project portfolio (Slides)](https://docs.google.com/presentation/d/e/2PACX-1vTwWARhV0HKJVJjlRgREgiF9xFeASsb3vgsrdD6bzy2K8YEAfG4cj8hOhP9YziYKt0BDkWewGYitRdV/pub?start=true&loop=true&delayms=3000).
+* **Process Guide:** Quick visual schematic of our [Soft Washing process (Drawing)](https://docs.google.com/drawings/d/1OpzasLF9qSLhja3zzpcxZPEEeBxa17nYeENooTmfIA4/edit?usp=sharing).
+* **Service Booking:** Use our simple [Service Request Form (Forms)](https://docs.google.com/forms/d/e/1FAIpQLSdUxzwake6zymsmI4NUHgMooSi5kgpVG-Zlr8La6NzLT6aRew/viewform?usp=header).
+* **Seasonal Schedule:** Check the [Holiday Light Installation Schedule (Calendar)](https://calendar.google.com/calendar/embed?src=bac0923e6fb4bd0897d66a7447a0c497f38d6c6aa8212bc2e548adbe0165707a%40group.calendar.google.com).
+
+***
+
 ### 🏷️ GitHub Tags / Keywords:
 
 `Window Cleaning`, `Pressure Washing`, `Soft Washing`, `Troy MI`, `Birmingham MI`, `Rochester Hills`, `Bloomfield Hills`, `Gutter Cleaning`, `Dryer Vent Cleaning`, `Metro Detroit`
